@@ -5,18 +5,6 @@ theme:
   features:
     - navigation.indexes
 
-nav:
-  - index.md
-  - Administration:
-    - ./administration/introduction.md
-    - "./administration/*"
-  - CHPC:
-      - "./chpc/*"
-  - Analysis Tools:
-      - "./analysis_tools/*"
-  - Tutorials:
-      - "./tutorials/*"
-
 plugins:
   - search
   - mkdocstrings:
