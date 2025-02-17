@@ -6,7 +6,8 @@ I'd like to add a whole bunch of stuff to this.
 
 ## Some stuff I'd like to add later:
 1. Administration
-    - (./administration/introduction)[Introduction to the group]
+    - 
+    - (Introduction to the group])[./administration/introduction
     - Getting set up at Utah
     - Group Policies and Requirements
 2. CHPC
