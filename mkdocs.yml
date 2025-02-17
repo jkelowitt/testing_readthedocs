@@ -17,16 +17,27 @@ strict: true
 nav:
   - About: index.md
   - Administration:
-      - Introduction: ./administration/introduction.md
-      - "administration/*"
+      - ./administration/introduction.md
+      - administration/setup.md
+      - administration/group_requirements.md
   - CHPC:
-      - "chpc/*"
+      - chpc/arbiter.md
+      - chpc/slurm.md
   - Simulators:
-      - "simulators/*"
+      - simulators/lammps.md
+      - simulators/gromacs.md
+      - simulators/cp2k.md
+      - simulators/dl_poly.md
   - Analysis Tools:
-      - "analysis_tools/*"
+      - analysis_tools/chemnetworks.md
+      - analysis_tools/gmx_tools.md
+      - analysis_tools/ovito.md
+      - analysis_tools/vmd.md
   - Tutorials:
-      - "tutorials/*"
+      - tutorials/diffusion_coefficient.md
+      - tutorials/lifetime_analysis.md
+      - tutorials/umbrella_sampling.md
+      - tutorials/viscosity_calculation.md
 
 plugins:
   - search
