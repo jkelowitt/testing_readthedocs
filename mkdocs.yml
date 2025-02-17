@@ -7,6 +7,7 @@ theme:
 
 plugins:
   - search
+  - awesome-nav
   - mkdocstrings:
       handlers:
         python:
