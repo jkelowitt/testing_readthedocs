@@ -8,6 +8,19 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
+nav:
+  - index.md
+  - Administration:
+    - ./administration/introduction.md
+    - "./administration/*"
+  - CHPC:
+      - "./chpc/*"
+  - Analysis Tools:
+      - "./analysis_tools/*"
+  - Tutorials:
+      - "./tutorials/*"
+
+
 python:
    install:
    - requirements: docs/requirements.txt
