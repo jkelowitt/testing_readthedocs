@@ -2,8 +2,6 @@ site_name: Clark Group Knowledge Base
 theme:
   name: readthedocs
   highlightjs: true
-  features:
-    - navigation.indexes
 
 plugins:
   - search
