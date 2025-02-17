@@ -3,6 +3,9 @@ theme:
   name: readthedocs
   highlightjs: true
 
+nav:
+  About: index.md
+
 plugins:
   - search
   - mkdocstrings:
