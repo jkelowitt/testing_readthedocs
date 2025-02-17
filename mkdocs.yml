@@ -16,10 +16,17 @@ theme:
 strict: true
 nav:
   - About: index.md
+  - Administration:
+      - Introduction: ./administration/introduction.md
+      - ./administration/*
   - CHPC:
-      - chpc/arbiter.md
+      - chpc/*
+  - Simulators:
+      - simulators/*
+  - Analysis Tools:
+      - analysis_tools/*
   - Tutorials:
-      - tutorials/diffusion_coefficient.md
+      - tutorials/*
 
 plugins:
   - search
