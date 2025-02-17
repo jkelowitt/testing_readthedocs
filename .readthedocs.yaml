@@ -5,12 +5,17 @@ build:
   tools:
     python: "3.10"
 
-python:
-  install:
-    - requirements: docs/requirements.txt
+build:
+  os: ubuntu-24.04
+  tools:
+    python: "3.12"
 
-sphinx:
-  configuration: docs/source/conf.py
+mkdocs:
+  configuration: mkdocs.yml
+
+python:
+   install:
+   - requirements: docs/requirements.txt
 
 formats:
   - pdf
