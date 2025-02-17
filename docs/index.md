@@ -7,7 +7,7 @@ I'd like to add a bunch of stuff to this:
 1. Administration
     - [Introduction to the group](./administration/introduction.md)
     - [Getting set up at Utah](./administration/setup.md)
-    - [Group Policies and Requirements](./administration/requirements.md)
+    - [Group Policies and Requirements](./administration/group_requirements)
 2. CHPC
     - Interfacing with CHPC
         - Getting Access to CHPC
