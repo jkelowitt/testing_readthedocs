@@ -22,7 +22,13 @@ nav:
   - Analysis Tools:
       - ChemNetworks: ./analysis_tools/chemnetworks.md
       - GMX Tools: ./analysis_tools/gmx_tools.md
-      - VMD: ./analysis_tools/
+      - VMD: ./analysis_tools/vmd.md
+      - OVITO: ./analysis_tools/ovito.md
+  - Tutorials:
+      - Umbrella Sampling: ./tutorials/umbrella_sampling.md
+      - Viscosity Calculation: ./tutorials/visocisty_calculation.md
+      - Diffusion Coefficient: ./tutorials/diffusion_coefficient.md
+      - Lifetime Analysis: ./tutorials/lifetime_analysis.md
 
 plugins:
   - search
