@@ -6,7 +6,6 @@ I'd like to add a whole bunch of stuff to this.
 
 ## Some stuff I'd like to add later:
 1. Administration
-    - 
     - (Introduction to the group)[./administration/introduction.md]
     - Getting set up at Utah
     - Group Policies and Requirements
