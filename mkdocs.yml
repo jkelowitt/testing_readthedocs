@@ -18,15 +18,15 @@ nav:
   - About: index.md
   - Administration:
       - Introduction: ./administration/introduction.md
-      - ./administration/*
+      - "administration/*"
   - CHPC:
-      - chpc/*
+      - "chpc/*"
   - Simulators:
-      - simulators/*
+      - "simulators/*"
   - Analysis Tools:
-      - analysis_tools/*
+      - "analysis_tools/*"
   - Tutorials:
-      - tutorials/*
+      - "tutorials/*"
 
 plugins:
   - search
