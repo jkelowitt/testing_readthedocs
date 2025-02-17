@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Example Group Wikipedia'
+copyright = '2025, Some Copyright Here!'
+author = 'Aurora Clark Lab'
 
-release = '0.1'
-version = '0.1.0'
+#release = '0.1'
+#version = '0.1.0'
 
 # -- General configuration
 
@@ -29,7 +29,6 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
