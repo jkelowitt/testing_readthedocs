@@ -5,9 +5,20 @@ theme:
   features:
     - toc.follow
     - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
 
 nav:
   - About: index.md
+  - CHPC:
+      - ./chpc/arbiter.md
+  - Tutorials:
+      - ./tutorials/diffusion_coefficient.md
 
 plugins:
   - search
