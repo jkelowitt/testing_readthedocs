@@ -12,6 +12,20 @@ python:
    install:
    - requirements: docs/requirements.txt
 
+nav:
+  - Home: index.md
+  - Administration:
+    - Introduction: ./administration/introduction.md
+    - Group Requirements: ./administration/group_requirements.md
+    - Getting Setup at Utah: ./administration/setup.md
+  - CHPC:
+      - Arbiter: ./chpc/arbiter.md
+      - SLURM: ./chpc/slurm.md
+  - Analysis Tools:
+      - ChemNetworks: ./analysis_tools/chemnetworks.md
+      - GMX Tools: ./analysis_tools/gmx_tools.md
+      - VMD: ./analysis_tools/
+
 formats:
   - pdf
   - epub
