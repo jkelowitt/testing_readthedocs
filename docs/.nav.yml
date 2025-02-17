@@ -1,9 +1,0 @@
-nav:
-  - index.md
-  - chpc
-  - analysis_tools
-  - tutorials
-  - simulators
-  - Administration:
-      - ./administration/introduction.md
-      - "./administration/*"
