@@ -13,9 +13,7 @@ theme:
     - navigation.tabs
     - navigation.top
 
-exclude_patterns:
-  - "**/*.md""
-
+strict: true
 nav:
   - About: index.md
   - CHPC:
