@@ -6,6 +6,9 @@ theme:
     - toc.follow
     - toc.integrate
 
+nav:
+  - About: index.md
+
 plugins:
   - search
   - mkdocstrings:
