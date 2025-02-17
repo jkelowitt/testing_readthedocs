@@ -3,9 +3,6 @@ theme:
   name: readthedocs
   highlightjs: true
 
-nav:
-  - About: index.md
-
 plugins:
   - search
   - mkdocstrings:
@@ -17,4 +14,4 @@ plugins:
 
 markdown_extensions:
   - markdown_include.include:
-      base_path: ./administration
+      base_path: .
