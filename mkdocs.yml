@@ -17,7 +17,7 @@ strict: true
 nav:
   - About: index.md
   - Administration:
-      - ./administration/introduction.md
+      - administration/introduction.md
       - administration/setup.md
       - administration/group_requirements.md
   - CHPC:
