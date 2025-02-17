@@ -2,7 +2,7 @@
 
 Welcome to the lab. This is a test of the readthedocs.io connection with github. 
 
-I'd like to add a whole bunch of stuff to this. 
+I'd like to add a bunch of stuff to this. 
 
 ## Some stuff I'd like to add later:
 1. Administration
@@ -19,10 +19,10 @@ I'd like to add a whole bunch of stuff to this.
       - SBATCH Commands
     - Useful UNIX and SLURM commands
 3. Simulators
-    - GROMACS
-    - LAMMPS
-    - CP2K
-    - DL_POLY
+    - [GROMACS](./simulators/gromacs.md)
+    - [LAMMPS](./simulators/lammps.md)
+    - [CP2K](./simulators/cp2k.md)
+    - [DL_POLY](./simulators/dl_poly.md)
 4. Analysis Tools
     - ChemNetworks
     - GMX_TOOLS
