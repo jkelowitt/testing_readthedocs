@@ -16,9 +16,9 @@ theme:
 nav:
   - About: index.md
   - CHPC:
-      - ./docs/chpc/arbiter.md
+      - chpc/arbiter.md
   - Tutorials:
-      - ./docs/tutorials/diffusion_coefficient.md
+      - tutorials/diffusion_coefficient.md
 
 plugins:
   - search
