@@ -13,7 +13,7 @@ theme:
     - navigation.tabs
     - navigation.top
 
-strict: true
+strict: true  # Only show the things listed here
 nav:
   - About: index.md
   - Administration:
@@ -41,6 +41,7 @@ nav:
 
 plugins:
   - search
+  - with-pdf
   - mkdocstrings:
       handlers:
         python:
