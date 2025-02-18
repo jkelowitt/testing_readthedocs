@@ -41,7 +41,8 @@ nav:
 
 plugins:
   - search
-  - with-pdf
+  - with-pdf:
+      output_path: ../document.pdf
   - mkdocstrings:
       handlers:
         python:
